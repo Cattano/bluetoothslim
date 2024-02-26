@@ -1,0 +1,2 @@
+# bluetoothslim
+prova connesione bluetooth
